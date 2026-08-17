@@ -7,15 +7,15 @@ Atividade em sala com 5 integrantes no intuito de aprimorar o aprendizado em Git
 ### Integrantes
 
 #### - Lucas Martins
-#### -Isaac Oliveira
-#### -Victor Monteiro
-#### -João Gualberto
-#### -Pedro Canuto
+#### - Isaac Oliveira
+#### - Victor Monteiro
+#### - João Gualberto
+#### - Pedro Canuto
 
 ### Estrutura do projeto
 
-#### -index.html
-#### -cadastro.html
-#### -listagem.html
-#### -consulta.html
-#### -README.md
+#### - index.html
+#### - cadastro.html
+#### - listagem.html
+#### - consulta.html
+#### - README.md
