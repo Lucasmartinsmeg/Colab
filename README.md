@@ -19,4 +19,5 @@ Atividade em sala com 5 integrantes no intuito de aprimorar o aprendizado em Git
 #### - cadastro.html
 #### - listagem.html
 #### - consulta.html
+#### - dashboard.html
 #### - README.md
