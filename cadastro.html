@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Eventos</title>
+</head>
+
+<body>
+
+    <h1>Cadastro de Eventos Acadêmicos</h1>
+
+    <form>
+
+        <label for="nome">Nome do Evento:</label><br>
+        <input type="text" id="nome" name="nome" required>
+        <br><br>
+
+        <label for="descricao">Descrição:</label><br>
+        <textarea id="descricao" name="descricao" rows="5" cols="40" required></textarea>
+        <br><br>
+
+        <label for="data">Data:</label><br>
+        <input type="date" id="data" name="data" required>
+        <br><br>
+
+        <label for="horario">Horário:</label><br>
+        <input type="time" id="horario" name="horario" required>
+        <br><br>
+
+        <label for="local">Local:</label><br>
+        <input type="text" id="local" name="local" required>
+        <br><br>
+
+        <label for="responsavel">Responsavel:</label><br>
+        <input type="text" id="responsavel" name="responsavel" required>
+        <br><br>
+
+        <label for="vagas">Quantidade de vagas:</label><br>
+        <input type="number" id="vagas" name="vagas" min="1" required>
+        <br><br>
+
+        <button type="submit">Cadastrar Evento</button>
+
+    </form>
+
+</body>
+</html>
